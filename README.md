@@ -1,7 +1,9 @@
 # Amazon-
 **About Amazon Data set**
 ![jdj](https://github.com/Payal03Gawande/Amazon-/assets/132563037/5c72f920-984a-4dce-8322-399c3cb77072)
+
 This is a Product Sales Dataset scraped from the Amazon website
+
 Its product data are separated by 142 categories in csv format, along with the full dataset name Amazon-Products.csv.
 Each csv files are consist of 10 columns and each row has products details accordingly
 
